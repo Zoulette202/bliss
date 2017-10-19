@@ -30,7 +30,7 @@
 		<!-- <property name="hibernate.hb2dll.auto">create/update</property> -->
 		
 		
-		<mapping class="com.mastere.metier.Adminitrateurr"/>
+		<mapping class="com.bliss.metier.Administrateur"/>
 		</session-factory>
 	
 	</hibernate-configuration>
