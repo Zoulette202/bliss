@@ -9,7 +9,7 @@
 		<property name="connection.driver_class"> com.mysql.jdbc.Driver</property>
 		
 		<!-- chaine de connection -->
-		<property name="connection.url">jdbc:mysql://localhost/mastere?autoReconnect=true </property>
+		<property name="connection.url">jdbc:mysql://localhost/bliss?autoReconnect=true </property>
 		<property name="connection.username">root</property>
 		<property name="connection.password"></property>
 		
